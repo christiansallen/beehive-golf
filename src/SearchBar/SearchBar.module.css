@@ -1,0 +1,25 @@
+.form-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 95%;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.form-input {
+  /* border-radius: 5px; */
+}
